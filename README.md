@@ -1,1 +1,1 @@
-# Caesar-Cipher-ALGO
+# Caesar-Cipher-ALGO.This code implements a Caesar cipher, shifting each letter in the input string s by k positions while preserving case and leaving non-letter characters unchanged. The Main method reads input, calls caesarCipher, and writes the resulting encrypted string to the output.
